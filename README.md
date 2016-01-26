@@ -1,16 +1,16 @@
-# melange
+# Melange
 Blend of Internet policy to Internet protocols
 
 #Goals of project - 
-To Facilitate a fluid mixture between governance of IP addresses with actual Internet protocols like BGP  using ethereum blockchains and smart contracts.  
-To bring in new dimension for Internet governance by facilitating a IP registry and linking it with BGP protocols using Ethereum Smart contracts.
+ - To Facilitate a fluid mixture between governance of IP addresses with actual Internet protocols like BGP  using ethereum blockchains and smart contracts.  
+ - To bring in new dimension for Internet governance by facilitating a IP registry and linking it with BGP protocols using Ethereum Smart contracts.
 
 #Stakeholders 
-Internet registries like APNIC, ARIN etc. - For Maintaining the ownership of IP addresses.
-IETF - For upgrading the protocol definition. 
-ISP’s - For Utilising the Internet or gaining the access to the internet. 
-Technology companies - For getting the infrastructure by virtue of products.
-Government Agencies - For defining the internet policy and course of action.
+ - Internet registries like APNIC, ARIN etc. - For Maintaining the ownership of IP addresses.
+ - IETF - For upgrading the protocol definition. 
+ - ISP’s - For Utilising the Internet or gaining the access to the internet. 
+ - Technology companies - For getting the infrastructure by virtue of products.
+ - Government Agencies - For defining the internet policy and course of action.
 
 
 #Problem Addressed
